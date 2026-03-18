@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<Settings>
+  <EmailSettings>
+    <SMTPServer></SMTPServer>
+    <SMTPPort>25</SMTPPort>
+    <MailFrom>bdias@cwtlimited.com</MailFrom>
+    <MailTo>bdias@cwtlimited.com</MailTo>
+    <Subject>Exchange Server DAG Health Report</Subject>
+  </EmailSettings>
+</Settings>
